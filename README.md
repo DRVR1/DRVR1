@@ -1,6 +1,7 @@
 # 💫 About Me:
 Mi nombre es Ian Vidmar, soy un estudiante avanzado de ingenieria en sistemas de informacion <br>
 Me encuentro por inciar el 4to año de la carrera en la UTN <br>
+Tengo experiencia en metodologias ágiles, desarrollo web y bases de datos <br>
 Estoy en busca de mi primera experiencia laboral en el mundo IT
 
 ## 🌐 Socials:
