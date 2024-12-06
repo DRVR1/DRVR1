@@ -15,21 +15,6 @@
 
 📩 Let's talk! I'm open to opportunities and challenges that will help me continue developing professionally. 🚀  
 
-## Spanish 
-
-✨ Hola, soy Ian Vidmar ✨  
-
-🎓 Estudiante avanzado de Ingeniería en Sistemas de Información en la UTN, por comenzar mi 4° año de carrera.  
-
-💻 Apasionado por la tecnología y el desarrollo, tengo experiencia en:  
-- Desarrollo web 🌐  
-- Bases de datos 📊  
-- Metodologías ágiles 🏃‍♂️  
-
-🌟 Estoy buscando mi primera experiencia laboral en el apasionante mundo IT, donde pueda aprender, crecer y aportar valor con mis conocimientos y energía.  
-
-📩 ¡Hablemos! Estoy abierto a oportunidades y desafíos que me permitan seguir desarrollándome profesionalmente. 🚀  
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ianvidmar) 
 
