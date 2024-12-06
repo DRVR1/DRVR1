@@ -1,7 +1,5 @@
 # 💫 About Me:
 
-## English 
-
 ✨ Hello, I'm Ian Vidmar ✨  
 
 🎓 Advanced student in Information Systems Engineering at UTN, about to begin my 4th year of studies.  
