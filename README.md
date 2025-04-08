@@ -2,7 +2,7 @@
 
 ✨ Hello, I'm Ian Vidmar ✨  
 
-🎓 Advanced student in Information Systems Engineering at UTN, about to begin my 4th year of studies.  
+🎓 Advanced student in Information Systems Engineering at UTN, currently on my 4th year of studies. 
 
 💻 Passionate about technology and development, I have experience in:  
 - Web development 🌐  
