@@ -25,7 +25,7 @@
 🇬🇧 English<br/>
 
 ## 📂 **Highlighted Projects:**  
-- 🌐 **![App management web app](https://github.com/DRVR1/appLogic-Back):** [Java Springboot + React] A playstore / apkmirror like web app. (Will go public soon!)
+- 🌐 **![App management web app](https://github.com/DRVR1/appLogic-Back):** [Java Springboot + React] A playstore / apkmirror like web app.
 - 🌐 **![Requirement Management System](https://github.com/DRVR1/GestorRequerimientos_fork):** [Java Springboot + React] [A team work] A web app where the user can create issues/requirements that must be solved .  
 - 🌐 **![Medical Appointment System](https://github.com/DRVR1/SistemaDeTurnosBackend):** [Java Springboot + plain html, css, js] [A team work].
 - 🌐 **![Personal Portfolio](https://github.com/DRVR1/Personal_Portfolio):** [Plain html, css, js] My personal portfolio. 
