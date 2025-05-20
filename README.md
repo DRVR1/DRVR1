@@ -10,7 +10,7 @@
 - Agile methodologies 🏃‍♂️  
 
 
-## 📂 **Highlighted Projects:**  
+## 📂 **Highlighted Projects (Screenshots included):**  
 - 🌐 **[App management web app](https://github.com/DRVR1/appLogic-Back):** [Java Springboot + React] A playstore / apkmirror like web app.
 - 🌐 **[Requirement Management System](https://github.com/DRVR1/GestorRequerimientos_fork):** [Java Springboot + React] [A team work] A web app where the user can create issues/requirements that must be solved .  
 - 🌐 **[Medical Appointment System](https://github.com/DRVR1/SistemaDeTurnosBackend):** [Java Springboot + plain html, css, js] [A team work].
