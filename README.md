@@ -1,14 +1,4 @@
-# 💫 About Me:
-
-👋 Hello, I'm Ian Vidmar 👋
-
-🎓 Advanced student in Information Systems Engineering at UTN, currently on my 4th year of studies. 
-
-💻 Passionate about technology and development, I have experience in:  
-- Web development 🌐  
-- Databases 📊  
-- Agile methodologies 🏃‍♂️  
-
+# Welcome!
 
 ## 📂 **Highlighted Projects (Screenshots included):**  
 - 🌐 **[App management web app](https://github.com/DRVR1/appLogic-Back):** [Java Springboot + React] A playstore / apkmirror like web app.
