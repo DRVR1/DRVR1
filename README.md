@@ -10,10 +10,6 @@
 - 🔒 **[File Encryption/Decryption Tool](https://github.com/DRVR1/FileCrypt):** [Python] Developed in Python for secure file handling with password protection.
 
 
-🌟 I'm looking for my first professional experience in the exciting IT world, where I can learn, grow, and contribute value with my knowledge and energy.  
-
-📩 Let's talk! I'm open to opportunities and challenges that will help me continue developing professionally. 🚀  
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ianvidmar) 
 
